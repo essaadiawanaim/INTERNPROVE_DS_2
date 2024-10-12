@@ -1,5 +1,6 @@
 # INTERNPROVE_DS_2
 US Accidents Exploratory Data Analysis
+Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 
 This project aims to analyze the provided dataset to discover insights that can be visually expressed through the data. The specific objectives include:
 
